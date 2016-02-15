@@ -4,6 +4,6 @@
 
 程序截图:
 
-<div width="200" height="200">![image](https://raw.githubusercontent.com/DavidWanderer/Calendar/master/1.png)</div>
+![image](https://raw.githubusercontent.com/DavidWanderer/Calendar/master/1.png)
 
 ![image](https://raw.githubusercontent.com/DavidWanderer/Calendar/master/2.png)
